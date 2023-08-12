@@ -59,14 +59,35 @@ Private Route Table
 Routes in Public Route table to be editted and add route 0.0.0.0/0 to igw 
 ![image](https://github.com/faraid/Virtual-Coffee-Shop-Launch/assets/46371646/835878af-54f2-46a2-8409-480c28dd2665)
 
-## Creation of NAT Gateway for the Private Subnets Instances
-
+## Creation of NAT gateway for the Private Subnets Instances
+NAT aateway
 ![image](https://github.com/faraid/Virtual-Coffee-Shop-Launch/assets/46371646/3ab739a4-5b7b-48a2-9037-42be2716e9a0)
 
+Private Routes associated to NAT gateway 
+![image](https://github.com/faraid/Virtual-Coffee-Shop-Launch/assets/46371646/10efabfa-3288-4233-87df-35a6ebd194e2)
 
+## launch EC2 Instances
 
+### coffeeshop Webserver1 in Public Subnet 1
 
+![image](https://github.com/faraid/Virtual-Coffee-Shop-Launch/assets/46371646/aed24089-3264-4bd3-be82-49abc844b649)
+![image](https://github.com/faraid/Virtual-Coffee-Shop-Launch/assets/46371646/a55dce1f-464d-479f-baa7-6b6f427a700a)
+![image](https://github.com/faraid/Virtual-Coffee-Shop-Launch/assets/46371646/a1072db1-4a62-42e3-9769-c821fc80349b)
 
+#### coffeeshop Webserver2 in Public Subnet 2
+![image](https://github.com/faraid/Virtual-Coffee-Shop-Launch/assets/46371646/6b3c611e-8e28-4f16-abc0-5c4a241f4904)
+![image](https://github.com/faraid/Virtual-Coffee-Shop-Launch/assets/46371646/759fe9fa-7eef-45a5-9bd0-3c5c6f9319c8)
 
+### 2 webservers in 2 different AZ 
+![image](https://github.com/faraid/Virtual-Coffee-Shop-Launch/assets/46371646/fd4cfd24-cc55-4e92-83a5-a34c89e2fc74)
 
+### coffeeshop dbservers in private subnet 1
+![image](https://github.com/faraid/Virtual-Coffee-Shop-Launch/assets/46371646/9e634e72-54f3-4fd2-8aaa-5f9d68239c00)
+![image](https://github.com/faraid/Virtual-Coffee-Shop-Launch/assets/46371646/0da306e1-f390-4b4c-8f11-1a6187e2a007)
+![image](https://github.com/faraid/Virtual-Coffee-Shop-Launch/assets/46371646/a6b9b866-78bb-4b44-b589-8da96675808c)
+
+### coffeeshop dbservers in private subnet 2
+![image](https://github.com/faraid/Virtual-Coffee-Shop-Launch/assets/46371646/64c90139-9cbd-4362-8c65-c0f1b0b71dbf)
+![image](https://github.com/faraid/Virtual-Coffee-Shop-Launch/assets/46371646/8aad0bc7-6273-4918-8cfd-0f7caab9a4ef)
+![image](https://github.com/faraid/Virtual-Coffee-Shop-Launch/assets/46371646/45633dc7-f212-46f0-87be-ef3832878582)
 
